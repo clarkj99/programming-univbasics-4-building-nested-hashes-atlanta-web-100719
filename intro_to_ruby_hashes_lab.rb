@@ -24,7 +24,9 @@ def monopoly_with_third_tier
             :level2 => "",
             :level3 => "",
             :level4 => ""
-        }}}
+        }
+      }
+    }
 end
 
 def monopoly_with_fourth_tier
